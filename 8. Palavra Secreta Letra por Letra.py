@@ -4,3 +4,5 @@ for indice in range (len(palavra)):
     letra = palavra[indice]
     posicao = indice +1
     print(f"{posicao} - {letra}")
+
+Ai sla
